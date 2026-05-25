@@ -2,13 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030805,50:0B3D2E,100:00C853&height=130&section=header" alt="Banner decorativo verde alien tech" />
 </p>
 
-<img align="right" width="330" src="https://stories.freepiklabs.com/storage/54824/Software-Code-Testing_Mesa-de-trabajo-1.svg" alt="Ilustração de testes de software com análise de código" />
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2800&pause=900&color=00B86B&vCenter=true&width=620&height=40&lines=Ol%C3%A1%2C+me+chamo+Pedro+Carvalho.+Boas-vindas!+%F0%9F%94%8E" alt="Typing SVG com apresentação de Pedro Carvalho" />
 </p>
 
-Sou um profissional de engenharia de software em evolução, com foco em **qualidade de software**, trabalhando com testes manuais, automação, APIs e performance.
+<img align="right" width="330" src="https://stories.freepiklabs.com/storage/54824/Software-Code-Testing_Mesa-de-trabajo-1.svg" alt="Ilustração de testes de software com análise de código" />
+
+Sou um profissional de engenharia de software em evolução, com foco em **qualidade de software** trabalhando com testes manuais, automação, APIs e performance.
 
 Gosto de entender como as coisas funcionam, ver como as engrenagens se conectam e os resultados que os esforços trazem.
 
