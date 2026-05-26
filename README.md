@@ -93,3 +93,9 @@ Atualmente venho praticando com **Java**, **Python**, **JavaScript**, **Selenium
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <em>Quando falhar, procure o motivo. Quando der certo, pergunte o porquê.</em>
+</p>
